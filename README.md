@@ -1,2 +1,2 @@
 # curso-de-git
-Iniciando git
+Iniciando git.
